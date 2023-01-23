@@ -7,6 +7,6 @@ Criei um CRUD MVC usando banco de dados Sql Server, .NET6 com visual studio 2022
 - Install-Package Microsoft.EntityFrameworkCore.Design
 - Install-Package Microsoft.EntityFrameworkCore.SqlServer
 
-Utilizei 2 arquivos para criação criação do banco:
+Utilizei 2 arquivos para criação do banco:
 - DDL.sql
 - DML.sql
